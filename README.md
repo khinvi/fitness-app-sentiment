@@ -131,8 +131,8 @@ The CSV dataset should have the following columns:
 
 This project is based on research by Arnav Khinvasara and includes techniques from the following papers:
 
-1. Aslam N, Ramay WY, Xia K et al. (2020) - Convolutional Neural Network Based Classification of App Reviews
-2. Ahn, H. and Park, E. (2023) - Motivations for user satisfaction of mobile fitness applications: An analysis of user experience based on online review comments
+1. Ahn, H., Park, E. Motivations for user satisfaction of mobile fitness applications: An analysis of user experience based on online review comments. *Humanit Soc Sci Commun* **10**, 3 (2023). https://doi.org/10.1057/s41599-022-01452-6
+2. Aslam N, Ramay WY, Xia K et al. (2020) - Convolutional Neural Network Based Classification of App Reviews
 3. Hedegaard S, Simonsen JG (2013) - Extracting Usability and User Experience Information from Online User Reviews
 
 ## License
