@@ -17,8 +17,6 @@ This project implements sentiment classification for fitness app reviews with th
 - **Comprehensive Evaluation**: Performance metrics including accuracy, precision, recall, and F1 scores
 - **Exploratory Analysis**: Notebook for data visualization and insights
 
-The implementation is based on research by Arnav Khinvasara analyzing user satisfaction with mobile fitness applications.
-
 ## Project Structure
 
 ```
@@ -128,8 +126,6 @@ The CSV dataset should have the following columns:
   - Explore zero-shot or few-shot learning approaches
 
 ## References
-
-This project is based on research by Arnav Khinvasara and includes techniques from the following papers:
 
 1. Ahn, H., Park, E. Motivations for user satisfaction of mobile fitness applications: An analysis of user experience based on online review comments. *Humanit Soc Sci Commun* **10**, 3 (2023). https://doi.org/10.1057/s41599-022-01452-6
 2. Aslam N, Ramay WY, Xia K et al. (2020) - Convolutional Neural Network Based Classification of App Reviews
